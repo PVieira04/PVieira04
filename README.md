@@ -14,4 +14,6 @@ Most of my current work lives in private repositories. What it covers:
 
 **Ask an agent about me.** [patrickjv.com](https://github.com/PVieira04/patrickjv-eng-site) (source public: static assets, a remote MCP server on Cloudflare Workers, 110+ tests and a production smoke monitor) is built to be read by AI assistants: [`llms.txt`](https://patrickjv.com/llms.txt), Markdown on request, schema.org data, and a remote MCP server at `https://patrickjv.com/mcp` (listed on the MCP Registry as `com.patrickjv/profile`).
 
+**Python:** [marine-forecast-service](https://github.com/PVieira04/marine-forecast-service), a public snapshot of a service that has emailed twice-daily ensemble forecasts to a yacht at sea since February 2026 (AIS position lookup, Cloudflare Worker cron, D1 send log, watchdog).
+
 The archived repositories below are from my 2022–23 retraining into software engineering, kept for the record.
