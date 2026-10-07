@@ -12,6 +12,6 @@ Most of my current work lives in private repositories. What it covers:
 - **Infrastructure as code** through Terraform Cloud and GitOps (plan on pull request, apply on merge, daily drift detection) across cloud and SaaS.
 - **On-premises speech intelligence** on an NVIDIA DGX Spark: NeMo transcription, diarisation and voiceprint speaker naming.
 
-**Ask an agent about me.** patrickjv.com is built to be read by AI assistants: [`llms.txt`](https://patrickjv.com/llms.txt), Markdown on request, schema.org data, and a remote MCP server at `https://patrickjv.com/mcp` (listed on the MCP Registry as `com.patrickjv/profile`).
+**Ask an agent about me.** [patrickjv.com](https://github.com/PVieira04/patrickjv-eng-site) (source public: static assets, a remote MCP server on Cloudflare Workers, 110+ tests and a production smoke monitor) is built to be read by AI assistants: [`llms.txt`](https://patrickjv.com/llms.txt), Markdown on request, schema.org data, and a remote MCP server at `https://patrickjv.com/mcp` (listed on the MCP Registry as `com.patrickjv/profile`).
 
 The archived repositories below are from my 2022–23 retraining into software engineering, kept for the record.
