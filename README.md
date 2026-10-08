@@ -16,4 +16,4 @@ Most of my current work lives in private repositories. What it covers:
 
 **Python:** [marine-forecast-service](https://github.com/PVieira04/marine-forecast-service), a public snapshot of a service that has emailed twice-daily ensemble forecasts to a yacht at sea since February 2026 (AIS position lookup, Cloudflare Worker cron, D1 send log, watchdog).
 
-The archived repositories below are from my 2022–23 retraining into software engineering, kept for the record.
+My 2022–23 retraining projects are archived under Repositories, kept for the record.
