@@ -1,4 +1,4 @@
-### Patrick Vieira: platform engineer, London
+### Patrick Vieira: AI platform engineer, London
 
 I build the platforms, infrastructure and identity systems that let a small team ship like a large one, with AI agents held to the same standard as people.
 
